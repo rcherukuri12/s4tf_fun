@@ -1,5 +1,5 @@
 # s4tf_fun
-a fun way to start and learn swift while using Swift-TensorFlow APIs 
+An ML practitioner's fun way to adopt swift for deep learning using Swift-TensorFlow APIs 
 
 Our approach will be different.
 
