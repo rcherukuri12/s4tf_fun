@@ -23,4 +23,13 @@ next project onwards.
 This helps us learn how nicely SPM integrates and forces the developer to
 adhere to continious integration practices.
 
+5. We now start learning Python InterOp added into S4TF by adding python 
+import of 'matplotlib'
+
+6. Next we do the same plots with package import of 'TensorBoardS'
+
+7. As we continue this graphical route, we learn that there are some functions
+that we need and are not there in S4TF. We use 'extensions' to  enhance 
+existing 'struct' to create the functions we want.
+
 
