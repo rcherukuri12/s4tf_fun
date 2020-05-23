@@ -9,6 +9,9 @@ This is important as it creates a bunch of folder and files that will neatly
 fit the compilation model and help to work with Swift Package Manager (SPM).
 
 Learning about this package manager makes life easy.
+Here is a good link to use:
+
+https://theswiftdev.com/swift-package-manager-tutorial/
 
 
 2. Next we create a simple executable project to see if we can do basics.
