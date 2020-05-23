@@ -3,8 +3,8 @@
 
 import PythonKit
 do  {
-        let np   = try Python.import("numpy")
-        let plt  = try Python.import("matplotlib.pyplot")
+        let np   = try Python.attemptImport("numpy")
+        let plt  = try Python.attemptImport("matplotlib.pyplot")
         let time = np.arange(0,10,0.01)
         let amp  = np.exp(-0.5 *  time )
         plt.figure(figsize:[10,8])
