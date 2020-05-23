@@ -1,0 +1,3 @@
+[submodule "data_readers"]
+	path = data_readers
+	url = https://github.com/rcherukuri12/data_readers
